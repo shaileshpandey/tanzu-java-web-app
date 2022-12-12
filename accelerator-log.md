@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "registry.tanzu.vmware.com"
+  "repositoryPrefix" : "registry.tanzu.vmware.com/tanzu-java-web-app"
 }
 ```
 ## Log
