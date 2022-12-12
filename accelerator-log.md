@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "github.com/tanzu-java-web-app"
+  "repositoryPrefix" : "github.com/shaileshpandey/tanzu-java-web-app"
 }
 ```
 ## Log
@@ -82,7 +82,7 @@
 ┃ ┃ ┃ ┃ ┃ ┏ engine.transformations[0].validated.delegate.transformations[0].sources[1].delegate.transformations[1] (ReplaceText)
 ┃ ┃ ┃ ┃ ┃ ┗  Info Will replace [tanzu-java-web-app->tanzu-java-web-app]
 ┃ ┃ ┃ ┃ ┃ ┏ engine.transformations[0].validated.delegate.transformations[0].sources[1].delegate.transformations[2] (ReplaceText)
-┃ ┃ ┃ ┃ ┗ ┗  Info Will replace [your-registry.io/project->github.com/tanzu-jav...(truncated)]
+┃ ┃ ┃ ┃ ┗ ┗  Info Will replace [your-registry.io/project->github.com/shaileshp...(truncated)]
 ┃ ┃ ┃ ┃ ┏ engine.transformations[0].validated.delegate.transformations[0].sources[2] (Combo)
 ┃ ┃ ┃ ┃ ┃  Info Combo running as Chain
 ┃ ┃ ┃ ┃ ┃ engine.transformations[0].validated.delegate.transformations[0].sources[2].delegate (Chain)

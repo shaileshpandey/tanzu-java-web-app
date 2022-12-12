@@ -1,4 +1,4 @@
-SOURCE_IMAGE = os.getenv("SOURCE_IMAGE", default='github.com/tanzu-java-web-app/tanzu-java-web-app-source')
+SOURCE_IMAGE = os.getenv("SOURCE_IMAGE", default='github.com/shaileshpandey/tanzu-java-web-app/tanzu-java-web-app-source')
 LOCAL_PATH = os.getenv("LOCAL_PATH", default='.')
 NAMESPACE = os.getenv("NAMESPACE", default='default')
 OUTPUT_TO_NULL_COMMAND = os.getenv("OUTPUT_TO_NULL_COMMAND", default=' > /dev/null ')
